@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 MİT
 
 
-> ![Ekran görüntüsü](C:user/pc/Belgeler/GitHub/proje.png)
+> ![Ekran görüntüsü](C:user/pc/Belgeler/GITHUB/proje.png)
