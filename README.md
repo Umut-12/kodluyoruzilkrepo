@@ -4,7 +4,7 @@ README dosyası, bir adet de index.html barındırıyor.
 
 # Installation
 
-öncelikle projeyi clonlayın (https://github.com/Umut-12/kodluyoruzilkrepo.git )
+öncelikle projeyi clonlayın (Buraya sizin reponuzdan aldığınız link gelecek )
 
 >git colone https://github.com/Umut-12/kodluyoruzilkrepo.git
 
